@@ -13,7 +13,7 @@ libgtk2.0-dev (gtk2-devel for centos)
 lesstif2-dev
 ```
 
-However, `lesstif2-dev` cannot find anymore. `motif-devel` package must install to substitute the `lesstif2-dev`.
+However, `lesstif2-dev` cannot find anymore. `motif-devel` (`libmotif-dev` for Ubuntu) package must install to substitute the `lesstif2-dev`.
 
 
 ### debug
